@@ -1,0 +1,147 @@
+body
+{
+	background-color: #161922;
+    font-family: 'Rubik', sans-serif;
+}
+
+html
+{
+    scroll-behavior:smooth
+}
+
+#contact
+{
+	color: #65e8ff;
+	font-size: 75px;
+}
+
+#header_0
+{
+    color: #65e8ff;
+    font-size: 100px;
+    padding: 310px 0px 542px 0px;
+}
+
+#header_1
+{
+	font-size: 75px;
+	padding: 75px 0px 20px 0px;
+	color: #65e8ff;
+}
+
+#header_2
+{
+	font-size: 50px;
+	color: #65e8ff;
+}
+
+.topnav 
+  {
+	overflow: hidden;
+  }
+  
+  .topnav a {
+	position: -ms-page;
+	float: center;
+	color: lightgray;
+	text-align: center;
+	padding: 125px 48px;
+	text-decoration: none;
+	font-size: 20px;
+  }
+  
+  .topnav a:hover {
+	background-color: #ddd;
+	color: black;
+  }
+  
+  .topnav a.active {
+	background-color: #65e8ff;
+	color: #161922;
+  }
+
+#container
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#text_0
+{
+    padding: 100px 0px 200px 0px;
+    font-size: 38px;
+    color: lightgrey;
+}
+
+#text_1
+{
+	font-size: 38;
+	color: lightgray;
+}
+
+#footer
+{
+	color: yellow;
+}
+
+.myButton {
+	background-color:transparent;
+	border-radius:42px;
+	border:5px solid #65e8ff;
+	display:inline-block;
+	cursor:pointer;
+	color: lightgrey;
+	font-family:Arial;
+	font-size:28px;
+	padding:25px 45px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:rgba(211, 211, 211, 0.220);
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.contact-box
+{
+	background-color: efefef;
+	width: 500px;
+	background-color: rgba(0, 0, 0, 0.350);
+}
+
+form
+{
+	margin: 35px;
+}
+
+.input-field
+{
+	width: 400px;
+	height: 40px;
+	margin-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 1px solid #777
+	border-radius: 14px;
+	outline: none;
+}
+
+.textarea-field
+{
+	height: 150px;
+	padding-top: 10px;
+}
+
+.btn
+{
+	border-radius: 20px;
+	color: #fff;
+	margin-top: 18px;
+	padding: 10px;
+	background-color: #47c35a;
+	font-size: 12px;
+	border: none;
+	cursor: pointer;
+}
