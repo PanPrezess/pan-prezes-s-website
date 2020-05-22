@@ -115,12 +115,6 @@ html
 	background-color:rgba(211, 211, 211, 0.220);
 }
 
-.myButton:active 
-{
-	position: fixed;
-	top:1px;
-}
-
 #media_0
 {
     font-weight: lighter;
@@ -128,7 +122,7 @@ html
     color: #fff;
     text-align: center;
     padding-top: 10px;
-    margin-bottom: 0px;
+	margin-bottom: 0px;
 }
  
 .media
