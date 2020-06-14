@@ -39,8 +39,8 @@ html
 .topnav 
   {
 	position: fixed;
-	text-align: center;
 	overflow: hidden;
+	float: center;
   }
   
   .topnav a 
@@ -124,7 +124,7 @@ html
     color: #fff;
     text-align: center;
     padding-top: 10px;
-	margin-bottom: 0px;
+    margin-bottom: 0px;
 }
  
 .media
