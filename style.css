@@ -39,6 +39,7 @@ html
 .topnav 
   {
 	position: fixed;
+	text-align: center;
 	overflow: hidden;
   }
   
