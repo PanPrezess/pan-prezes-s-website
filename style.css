@@ -38,9 +38,7 @@ html
 
 .topnav 
   {
-	position: fixed;
 	overflow: hidden;
-	float: center;
   }
   
   .topnav a 
