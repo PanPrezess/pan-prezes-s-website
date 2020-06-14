@@ -38,6 +38,7 @@ html
 
 .topnav 
   {
+	position: fixed;
 	overflow: hidden;
   }
   
