@@ -19,6 +19,11 @@ body::-webkit-scrollbar-corner
     background-color: #65e8ff;
 }
 
+body::-webkit-scrollbar-button:vertical:decrement
+{
+    background-color: #161922 url(up) no-repeat;
+}
+
 body
 {
     background-color: #161922;
