@@ -27,7 +27,7 @@ body
 
 html
 {
-    scroll-behavior:smooth
+    scroll-behavior: smooth;
 }
 
 #contact
@@ -67,7 +67,7 @@ html
 	position: -ms-page;
 	float: center;
 	color: lightgray;
-	text-align: center;
+	text-align: top;
 	padding: 125px 48px;
 	text-decoration: none;
 	font-size: 20px;
