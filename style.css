@@ -57,12 +57,12 @@ html
 	color: #65e8ff
 }
 
-.topnav 
+.navbar
   {
 	overflow: hidden;
   }
   
-  .topnav a 
+  .navbar a 
   {
 	position: -ms-page;
 	float: center;
@@ -73,13 +73,13 @@ html
 	font-size: 20px;
   }
   
-  .topnav a:hover 
+  .navbar a:hover 
   {
 	background-color: #ddd;
 	color: black;
   }
   
-  .topnav a.active 
+  .navbar a.active 
   {
 	background-color: #65e8ff;
 	color: #161922;
