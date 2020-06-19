@@ -65,7 +65,7 @@ html
   .topnav a 
   {
 	position: -ms-page;
-	float: center;
+	float: left;
 	color: lightgray;
 	text-align: center;
 	padding: 125px 48px;
