@@ -54,7 +54,13 @@ html
 #video
 {
 	font-size: 30;
-	color: #65e8ff
+	color: #65e8ff;
+}
+
+#desc
+{
+	font-size: 24;
+	color: #65e8ff;
 }
 
 .navbar
